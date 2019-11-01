@@ -19,7 +19,7 @@
 # Boston, MA 02110-1301, USA.
 
 install(FILES
-    iqbalance_fix_cc.xml
-    iqbalance_optimize_c.xml
+    iqbalance_fix_cc.block.yml
+    iqbalance_optimize_c.block.yml
     DESTINATION share/gnuradio/grc/blocks
 )
